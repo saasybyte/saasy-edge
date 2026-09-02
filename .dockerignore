@@ -1,0 +1,16 @@
+.git
+.gitignore
+.gitmodules
+.env
+.env.*
+*.md
+Dockerfile
+.dockerignore
+.claude/
+bin/
+bruno/
+scripts/
+api/
+saasy-proto/
+sqlc.yaml
+Makefile
